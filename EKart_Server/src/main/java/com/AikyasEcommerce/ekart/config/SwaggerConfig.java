@@ -36,9 +36,7 @@ public class SwaggerConfig extends WebMvcConfigurationSupport{
                 "EKart Spring Boot REST API for FA4",
                 "1.0",
                 "Terms of service",
-                new Contact("JAVA FA4", "https://infosys.com", "animesh_rai@infosys.com"),
-                "ExpApp License Version 1.0",
-                "https://infosys.com",
+                new Contact("JAVA FA4"),
                 Collections.emptyList()
         );
     }
